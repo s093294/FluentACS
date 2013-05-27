@@ -1,3 +1,9 @@
+Updated to 4.5 and adding JWT SUPPORT
+--------------------------------------
+
+
+THE OLD README IS STILL ATTACHED ADN LICENSE STILL APPLY.
+
 Fluent API for setting up Windows Azure ACS
 -------------------------------------------
 
