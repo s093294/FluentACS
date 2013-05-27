@@ -8,7 +8,7 @@
 
     using FluentACS;
 
-    using Microsoft.IdentityModel.Claims;
+    using System.IdentityModel.Claims;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using FluentACS.Specs;
 

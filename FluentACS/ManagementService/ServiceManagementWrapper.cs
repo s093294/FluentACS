@@ -9,12 +9,11 @@ using System.Net;
 using System.Text;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
-using Microsoft.IdentityModel.Protocols.WSFederation.Metadata;
-using EntityDescriptor = Microsoft.IdentityModel.Protocols.WSFederation.Metadata.EntityDescriptor;
 
 namespace FluentACS.ManagementService
 {
     using System.Security.Cryptography.X509Certificates;
+    using System.IdentityModel.Metadata;
 
     public class ServiceManagementWrapper
     {

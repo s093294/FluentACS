@@ -6,8 +6,9 @@
     using System.Security.Cryptography.X509Certificates;
 
     using FluentACS;
+    using System.IdentityModel.Claims;
 
-    using Microsoft.IdentityModel.Claims;
+
 
     class Program
     {
